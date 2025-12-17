@@ -4,6 +4,17 @@ Proyek ini adalah implementasi sistem e-commerce berbasis web yang terbagi menja
 
 ---
 
+## 🌐 Tautan Demo (GitHub Pages)
+
+Anda bisa melihat demonstrasi live dari proyek ini di bawah:
+
+| Bagian Aplikasi | Akses Tautan Demo |
+| :--- | :--- |
+| **Halaman Website (User)** | [Click Here to Preview Website](https://Nzieraaa.github.io/umkm-ecommerce-web/Website/index.html) |
+| **Halaman Admin** | [Click Here to Preview Admin](https://Nzieraaa.github.io/umkm-ecommerce-web/Admin/index.html) |
+
+---
+
 ## 🎯 Tujuan Proyek
 
 * Memenuhi Tugas Akhir Semester 1 Mata Pelajaran Pemrograman Berbasis Objek.
@@ -44,9 +55,6 @@ Karena ini adalah proyek Tugas Akhir (mungkin berupa HTML/CSS statis atau PHP), 
 2.  **Siapkan Lingkungan Server:**
     * Jika menggunakan PHP/MySQL: Pindahkan folder proyek ke direktori `htdocs` (XAMPP/WAMP).
     * Jika hanya HTML/CSS: Buka file `index.html` atau jalankan dengan *Live Server* (VS Code).
-3.  **Akses Aplikasi:**
-    * **Website (User):** Buka (Admin/index.html)
-    * **Admin:** Buka (Website/index.html)
 
 ---
 
